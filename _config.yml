@@ -1,0 +1,28 @@
+name: Covergirlpix
+favicon: null
+layout_spectrum: 0.6286481311544776
+typography_spectrum: 0.5303929077927023
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8135790766682476
+  lightness: 0.47805533092468977
+  saturation: 0.4993246889207512
+  rhythmicContrast: 0.08622022136114538
+purpose: []
